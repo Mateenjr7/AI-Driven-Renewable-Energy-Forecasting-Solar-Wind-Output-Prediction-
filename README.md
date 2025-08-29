@@ -43,5 +43,5 @@ Click below to directly open and run the notebook in Google Colab:
 
 ---
 
-👨‍💻 Author: [Mateenj7](https://github.com/Mateenj7)  
+👨‍💻 Author: [Mateenjr7](https://github.com/Mateenjr7)  
 ⭐ If you find this useful, don’t forget to **star the repo**!
