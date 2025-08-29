@@ -7,7 +7,7 @@ A Machine Learning project to predict solar and wind energy output, supporting s
 ## 🚀 Run on Google Colab
 Click below to directly open and run the notebook in Google Colab:
 
-[![Open In Colab]https://colab.research.google.com/drive/17ej8xEVVFeAal2hgqIUgZEzSGHKSMbD5?authuser=0#scrollTo=xeUZxBHxPOrD   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17ej8xEVVFeAal2hgqIUgZEzSGHKSMbD5?usp=sharing)
 ---
 
 ## 📌 Project Overview
