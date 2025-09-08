@@ -2,7 +2,7 @@
 
 A Machine Learning project to predict solar and wind energy output, supporting sustainable energy and efficiency goals.  
 
----
+----
 
 ## 🚀 Run on Google Colab
 Click below to directly open and run the notebook in Google Colab:
