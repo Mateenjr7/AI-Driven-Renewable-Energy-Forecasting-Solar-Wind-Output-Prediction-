@@ -10,7 +10,6 @@ Click below to directly open and run the notebook in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EQVGcDIIq5ELFis3k6KGCLrqt0xuYn2l#scrollTo=WI0f2U2sVU5B)
 
 ---
-
 ## 📌 Project Overview
 - Forecasts **solar and wind energy output** using AI/ML models.  
 - Helps optimize **sustainable energy planning**.  
@@ -46,4 +45,3 @@ Click below to directly open and run the notebook in Google Colab:
 
 👨‍💻 Author: [Mateenjr7](https://github.com/Mateenjr7)  
 ⭐ If you find this useful, don’t forget to **star the repo**!
-
